@@ -2,7 +2,7 @@
     "name": "nickhotbrain/wallet-api",
     "description": "Wallet API",
     "license": "MIT",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "authors": [
         {
           "name": "Nikita Surtaev",
@@ -13,7 +13,7 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-          "NickHotbrain\\api-service\\": "src/"
+          "NickHotbrain\\WalletApi\\": "src/"
         }
     },
     "require": {}
