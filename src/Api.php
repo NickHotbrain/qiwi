@@ -35,7 +35,7 @@ class Api extends WalletServiceAbstract implements WalletServiceInterface
     {
         $this->requestMethod = 'GET';
         $this->requestUrl = 'https://edge.qiwi.com/funding-sources/v2/persons/' . $walletNumber.'/accounts';
-        $result = $this->processRequest();
+        $result = $this->process();
         return $result;
     }
 
