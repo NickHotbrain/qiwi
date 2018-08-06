@@ -1,12 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: user
- * Date: 06.08.2018
- * Time: 12:07
- */
 
-namespace NickHotbrain\WalletApi\Services;
+namespace NickHotbrain\WalletApi;
 
 
 class WalletServiceAbstract implements WalletServiceInterface

@@ -1,6 +1,6 @@
 <?php
 
-namespace NickHotbrain\WalletApi\Services;
+namespace NickHotbrain\WalletApi;
 
 use GuzzleHttp\Client;
 
